@@ -1,5 +1,6 @@
 {
   "v":"1.0.0",
   "updateLink":"http://sheri.com/",
-  "closeAppIfNotUpdeated":"false"
+  "closeAppIfNotUpdeated":"false",
+  "msg":"يرجى تحديث البرنامج للحصول على احدث الميزات"
 }
