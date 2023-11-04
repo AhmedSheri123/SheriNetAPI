@@ -1,7 +1,7 @@
 {
   "host":"sheri.com",
   "port":"443",
-  "protocol":"http",
+  "protocol":"https",
   "UserNotifiUrlPath":"/internet/accounts/user_notifications",
   "CheckNotifiUrl":"/internet/accounts/notifications_app_gateway"
 }
