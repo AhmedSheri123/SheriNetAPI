@@ -1,5 +1,5 @@
 {
-  "host":"114.20.30.252",
+  "host":"110.110.110.252",
   "port":"80",
   "protocol":"http",
   "UserNotifiUrlPath":"/internet/accounts/user_notifications",
